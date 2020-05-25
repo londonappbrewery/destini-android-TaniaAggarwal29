@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:textSize="24sp"
+        android:textSize="20sp"
         android:textColor="#ffffffff"/>
 
     <Button
@@ -36,7 +36,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:textSize="15sp"/>
+        android:textSize="12sp"/>
 
     <Button
         android:id="@+id/buttonBottom"
@@ -50,7 +50,7 @@
         android:layout_alignEnd="@+id/buttonTop"
         android:background="#3498db"
         android:textColor="#ecf0f1"
-        android:textSize="15sp"/>
+        android:textSize="12sp"/>
 
 
 
